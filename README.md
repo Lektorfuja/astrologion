@@ -1,2 +1,31 @@
-# astrologion
-A simple astroprocessor for Linux
+# Astrologion
+
+**Modern HTML5 Astrological Processor for Linux**
+
+A lightweight, fast and offline astrology application built with pure HTML5, CSS and JavaScript.
+
+![Astrologion Banner](https://via.placeholder.com/1200x400/1a1a2e/ffffff?text=Astrologion)
+
+## ✨ Features
+
+- Natal chart calculation
+- Planetary positions and aspects
+- Transits and progressions
+- Synastry (relationship compatibility)
+- Clean and intuitive interface
+- Works completely offline
+- Native Linux integration (menu entry and icon)
+
+## 🚀 Quick Installation
+
+### Using .deb package (recommended)
+
+```bash
+# Download the latest version
+wget https://github.com/Lektorfuja/astrologion/releases/latest/download/astrologion_1.0.0_all.deb
+
+# Install
+sudo dpkg -i astrologion_1.0.0_all.deb
+
+# Fix dependencies if needed
+sudo apt install -f
