@@ -22,10 +22,8 @@ A lightweight, fast and offline astrology application built with pure HTML5, CSS
 
 ```bash
 # Download the latest version
-wget https://github.com/Lektorfuja/astrologion/releases/latest/download/astrologion_1.0.0_all.deb
+git clone https://github.com/Lektorfuja/astrologion
 
-# Install
-sudo dpkg -i astrologion_1.0.0_all.deb
 
 # Fix dependencies if needed
 sudo apt install -f
