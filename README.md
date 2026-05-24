@@ -23,7 +23,3 @@ A lightweight, fast and offline astrology application built with pure HTML5, CSS
 ```bash
 # Download the latest version
 git clone https://github.com/Lektorfuja/astrologion
-
-
-# Fix dependencies if needed
-sudo apt install -f
