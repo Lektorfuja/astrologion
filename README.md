@@ -4,7 +4,7 @@
 
 A lightweight, fast and offline astrology application built with pure HTML5, CSS and JavaScript.
 
-![Astrologion Banner](https://via.placeholder.com/1200x400/1a1a2e/ffffff?text=Astrologion)
+
 
 ## ✨ Features
 
